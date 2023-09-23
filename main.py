@@ -1,6 +1,6 @@
 import csv, time
 time.sleep(1.5)
-a = '\033[4m🌟SHOP $$ TRACKER🌟\033[0m'
+a = '\033[4m🌟SHOP $$ TRACKER.🌟\033[0m'
 print(f'\033[1;33m{a:^50}\033[0m')
 print()
 time.sleep(1.5)
